@@ -1,32 +1,10 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Shivam's Portfolio Website
 
+Welcome to my portfolio website! This is a showcase of my expertise as a Product Manager and Business Analyst with an MBA from DoMS IIT Kanpur, highlighting my projects in data analysis, business strategy, and automation.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Features
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- **Projects:** Explore a diverse set of data-driven projects leveraging SQL, Power BI, Python, Lean Six Sigma, and more.
+- **User-Friendly Design:** Built with the lightweight and responsive "Massively" template from HTML5 UP, ensuring an engaging user experience.
+- **Integrated Links:** Easy access to my LinkedIn and GitHub profiles for more insights into my professional journey.
+- **Contact Information:** Quickly reach out to me via email, phone, or social platforms.
